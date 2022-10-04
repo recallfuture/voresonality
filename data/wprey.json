@@ -1,6 +1,6 @@
 [
     {
-      "question": "My predator should accommodate my tastes.",
+      "question": "我的捕食者需要适应我尝起来的味道。",
       "answers": [
         {
           "type": "S",
@@ -25,7 +25,7 @@
       ]
     },
     {
-      "question": "I would forcefeed myself to someone if they were reluctant to eat me.",
+      "question": "假如某些捕食者不情愿吃下我，我会强迫它们吃掉自己（或自己钻进去）。",
       "answers": [
         {
           "type": "S",
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "question": "I sometimes catch predators off guard with my willingness",
+      "question": "有时我会（采取某些行动）令我的捕食者措手不及，只要我乐意。",
       "answers": [
         {
           "type": "S",
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "question": "I sometimes get jealous of other prey.",
+      "question": "有时候我会嫉妒别的猎物。",
       "answers": [
         {
           "type": "S",
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "question": "I disdain predators who can't appreciate how delicious I am",
+      "question": "对于那些欣赏不了我美味的捕食者，我很鄙视它们。",
       "answers": [
         {
           "type": "S",
@@ -125,7 +125,7 @@
       ]
     },
     {
-      "question": "I would feel comfortable sharing a stomach with another prey.",
+      "question": "和其他猎物共享一个胃袋时，我会感到很舒服。",
       "answers": [
         {
           "type": "I",
@@ -150,7 +150,7 @@
       ]
     },
     {
-      "question": "I enjoy hearing sounds of approval from my predator.",
+      "question": "我喜欢听到我的捕食者发出满足的、赞许的声音。",
       "answers": [
         {
           "type": "I",
@@ -175,7 +175,7 @@
       ]
     },
     {
-      "question": "I love helping a predator practice devouring people, myself included.",
+      "question": "我特别喜欢帮助一只捕猎者训练如何吃掉自己的猎物，即便需要我自己上阵我也不介意。",
       "answers": [
         {
           "type": "I",
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "question": "I'd do everything I could to make myself easier to swallow for a predator.",
+      "question": "只要是能让捕食者吃下我变得容易些，什么样儿的代价我都可以付出。",
       "answers": [
         {
           "type": "I",
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "question": "I would want my predator to treat me with the same respect I give them.",
+      "question": "我会希望我与我的捕食者存在一种相互尊重，这种尊重是彼此等价的。",
       "answers": [
         {
           "type": "I",
@@ -250,7 +250,7 @@
       ]
     },
     {
-      "question": "I'd want my predator to treat me like food, and nothing more.",
+      "question": "我想让我的捕食者把我当成纯粹的食物，仅此而已。",
       "answers": [
         {
           "type": "E",
@@ -275,7 +275,7 @@
       ]
     },
     {
-      "question": "I'd gladly share a stomach with regular food.",
+      "question": "我很乐意和其他任何食物共享一个胃袋。",
       "answers": [
         {
           "type": "E",
@@ -300,7 +300,7 @@
       ]
     },
     {
-      "question": "The sensation of being devoured is the most important part.",
+      "question": "被吃掉的“感觉（知觉）”是最重要的。",
       "answers": [
         {
           "type": "E",
@@ -325,7 +325,7 @@
       ]
     },
     {
-      "question": "I wouldn't mind being eaten by a total stranger.",
+      "question": "我不会介意被一只完全陌生的捕食者吃掉。",
       "answers": [
         {
           "type": "E",
@@ -350,7 +350,7 @@
       ]
     },
     {
-      "question": "I'd rather my predator rub me from the outside than speak to me when I'm in their belly",
+      "question": "比起和我说话，我更喜欢我的捕食者从外面隔着肚子抚摸我。",
       "answers": [
         {
           "type": "E",
@@ -375,7 +375,7 @@
       ]
     },
     {
-      "question": "I want to feel like I'm someone special to my predator.",
+      "question": "我想让自己对捕食者来说很特别。",
       "answers": [
         {
           "type": "V",
@@ -400,7 +400,7 @@
       ]
     },
     {
-      "question": "Listening to my predator's heartbeat from the inside soothes me.",
+      "question": "从捕食者的内脏组织里听着它的心跳让我很安心。",
       "answers": [
         {
           "type": "V",
@@ -425,7 +425,7 @@
       ]
     },
     {
-      "question": "An emotional connection to my predator is paramount in vore.",
+      "question": "在吞食（Vore）中，与我的捕食者之间的情感连结至关重要。",
       "answers": [
         {
           "type": "V",
@@ -450,7 +450,7 @@
       ]
     },
     {
-      "question": "I'd rather be eaten by my friends than strangers.",
+      "question": "比起陌生的捕食者，我宁愿被我的朋友们吃掉。",
       "answers": [
         {
           "type": "V",
@@ -475,7 +475,7 @@
       ]
     },
     {
-      "question": "I'd want to chat with my predator while I was in their stomach",
+      "question": "当我在捕食者的胃部，我会想与它们聊天。",
       "answers": [
         {
           "type": "V",
@@ -500,7 +500,7 @@
       ]
     },
     {
-      "question": "I make myself a target to predators however I can.",
+      "question": "我尽我所能让自己成为掠食者的目标。",
       "answers": [
         {
           "type": "P",
@@ -525,7 +525,7 @@
       ]
     },
     {
-      "question": "When I see a predator yawn, I have to hold myself back from diving right in",
+      "question": "当我看到一个捕食者在打哈欠，我不得不抑制自己一头扎进去的冲动。",
       "answers": [
         {
           "type": "P",
@@ -550,7 +550,7 @@
       ]
     },
     {
-      "question": "I love struggling and rubbing the walls when I'm in a gut.",
+      "question": "我喜欢在肚子里挣扎、抓挠肉壁。",
       "answers": [
         {
           "type": "P",
@@ -575,7 +575,7 @@
       ]
     },
     {
-      "question": "I put myself in perilous situations on the prospect of being eaten.",
+      "question": "我会把自己置于可能被吃掉的危险境地。",
       "answers": [
         {
           "type": "P",
@@ -600,7 +600,7 @@
       ]
     },
     {
-      "question": "I like to leave my fate up to games of chance.",
+      "question": "我对自己的命运有些大胆，喜欢“碰运气”。",
       "answers": [
         {
           "type": "P",
@@ -625,7 +625,7 @@
       ]
     },
     {
-      "question": "I don't draw attention to myself, waiting for predators to come to me.",
+      "question": "我不会主动引起捕食者的注意，而是等待它们过来找我。",
       "answers": [
         {
           "type": "A",
@@ -650,7 +650,7 @@
       ]
     },
     {
-      "question": "Open maws and big bellies make me flustered.",
+      "question": "张着的大嘴和硕大的肚子令我局促不安。",
       "answers": [
         {
           "type": "A",
@@ -675,7 +675,7 @@
       ]
     },
     {
-      "question": "I lay back and let the predator do the work when I'm in a stomach.",
+      "question": "当我在胃袋中时，我会（轻松地）躺着，其他的就交给捕食者完成。",
       "answers": [
         {
           "type": "A",
@@ -700,7 +700,7 @@
       ]
     },
     {
-      "question": "I take the safe route wherever I can, but predators find me anyway.",
+      "question": "我每次尽全力寻找一条安全的线路，但捕食者们总是能找到我。",
       "answers": [
         {
           "type": "A",
@@ -725,7 +725,7 @@
       ]
     },
     {
-      "question": "I like to talk with my predator, calmly outlining what I would enjoy.",
+      "question": "我喜欢和我的捕食者交谈，同时我会平静地阐述我可能会喜欢的。",
       "answers": [
         {
           "type": "A",
@@ -750,7 +750,7 @@
       ]
     },
     {
-      "question": "Nothing turns me on quite like sliding down a throat.",
+      "question": "没什么比“从喉咙里滑下去”更能令我（性）兴奋的了。",
       "answers": [
         {
           "type": "N",
@@ -775,7 +775,7 @@
       ]
     },
     {
-      "question": "I typically need to pleasure myself after being confined to a predator's stomach",
+      "question": "在被困在捕食者的胃袋之后，我通常会进行自慰。",
       "answers": [
         {
           "type": "N",
@@ -800,7 +800,7 @@
       ]
     },
     {
-      "question": "I have wet dreams about being devoured.",
+      "question": "当我梦到自己被吞食，我会梦遗（在梦中产生遗精）。",
       "answers": [
         {
           "type": "N",
@@ -825,7 +825,7 @@
       ]
     },
     {
-      "question": "My predator should pay special attention to my crotch when it's in their mouth.",
+      "question": "当我在捕食者的嘴中之时，它们需要格外注意我的胯部（两腿中间分叉处）。",
       "answers": [
         {
           "type": "N",
@@ -850,7 +850,7 @@
       ]
     },
     {
-      "question": "I enjoy flirtatious comments from my predator.",
+      "question": "我喜欢捕食者说出的那些卖弄风情、略带轻浮和调戏意味的评价。",
       "answers": [
         {
           "type": "N",
@@ -875,7 +875,7 @@
       ]
     },
     {
-      "question": "Being in a stomach is comforting.",
+      "question": "处在胃袋里令我感到安慰（欣慰）。",
       "answers": [
         {
           "type": "X",
@@ -900,7 +900,7 @@
       ]
     },
     {
-      "question": "I relish the thought of becoming part of my predator's body.",
+      "question": "一想到自己变成捕食者身体的一部分，我就很享受。",
       "answers": [
         {
           "type": "X",
@@ -925,7 +925,7 @@
       ]
     },
     {
-      "question": "I imagine myself in a stomach when I need to relax.",
+      "question": "当我需要放松的时候，我会想象自己在某个胃里。",
       "answers": [
         {
           "type": "X",
@@ -950,7 +950,7 @@
       ]
     },
     {
-      "question": "Being eaten can be a great boost to my mood and confidence.",
+      "question": "被吃掉可以让我信心倍增、情绪高涨。",
       "answers": [
         {
           "type": "X",
@@ -975,7 +975,7 @@
       ]
     },
     {
-      "question": "I use vore as a chance to escape my boring day-to-day life.",
+      "question": "我把吞食性爱好（Vore）当成是逃离日复一日的无聊生活的一种机会。",
       "answers": [
         {
           "type": "X",

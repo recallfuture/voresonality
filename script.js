@@ -294,7 +294,7 @@ function nextQuestion() {
 
     //Update progress bar
     progressbarfill.style.width = `${((questionNo + 1) / questions.length) * 100}%`;
-    document.getElementById('question-header').innerText = 'Statement ' + (questionNo + 1) + '/' + + questions.length;
+    document.getElementById('question-header').innerText = (questionNo + 1) + '/' + + questions.length;
     document.getElementById('question-text').innerText = questions[questionNo].question;
 }
 
@@ -328,7 +328,7 @@ function prevQuestion() {
 
     //Update progress bar
     progressbarfill.style.width = `${((questionNo + 1) / questions.length) * 100}%`;
-    document.getElementById('question-header').innerText = 'Statement ' + (questionNo + 1) + '/' + questions.length;
+    document.getElementById('question-header').innerText = (questionNo + 1) + '/' + questions.length;
     document.getElementById('question-text').innerText = questions[questionNo].question;
 }
 

@@ -1,6 +1,6 @@
 [
   {
-    "question": "The feelings of my prey matter little to me",
+    "question": "我不怎么在乎我的猎物（对吞食行为）的感受。",
     "answers": [
       {
         "type": "S",
@@ -25,7 +25,7 @@
     ]
   },
   {
-    "question": "My prey should be content that I have deemed them worthy of being my food.",
+    "question": "对于“我已经认可我的猎物，它们值得做我的食物”这一点，猎物们应该感到满意。",
     "answers": [
       {
         "type": "S",
@@ -50,7 +50,7 @@
     ]
   },
   {
-    "question": "If I take my time with my prey, it is entirely for my own satisfaction.",
+    "question": "倘若我抽出时间，（不紧不慢地）陪着我的猎物，那完全是为了满足自己。",
     "answers": [
       {
         "type": "S",
@@ -75,7 +75,7 @@
     ]
   },
   {
-    "question": "Struggling prey need to learn their place.",
+    "question": "那些挣扎的猎物，需要好好掂量掂量自己几斤几两、了解自己的处境。",
     "answers": [
       {
         "type": "S",
@@ -100,7 +100,7 @@
     ]
   },
   {
-    "question": "Prey who shout about how they don't want to be eaten are only proving they deserve to be.",
+    "question": "那些嚷嚷着自己不想被吃掉的猎物，恰恰证实了它们应该进我的肚子。（哼）",
     "answers": [
       {
         "type": "S",
@@ -125,7 +125,7 @@
     ]
   },
   {
-    "question": "I would stop devouring my prey if they were uncomfortable.",
+    "question": "假如我的猎物在吞食过程中感到不适，我会停下这一过程。",
     "answers": [
       {
         "type": "I",
@@ -150,7 +150,7 @@
     ]
   },
   {
-    "question": "I listen to what my prey wants and try to satisfy both their needs and my own.",
+    "question": "我会倾听猎物想要什么，并努力达成双方的需求。",
     "answers": [
       {
         "type": "I",
@@ -175,7 +175,7 @@
     ]
   },
   {
-    "question": "I prefer my prey to be willing; if they’re not, I might try to tempt them into it.",
+    "question": "我更喜欢我的猎物主动、情愿被我吞下；如果并非如此，我可能会引诱他们变得情愿。",
     "answers": [
       {
         "type": "I",
@@ -200,7 +200,7 @@
     ]
   },
   {
-    "question": "I try to find ways to make my prey feel comfortable with the process.",
+    "question": "我努力想办法让我的猎物在（吞咽）过程中感到舒适。",
     "answers": [
       {
         "type": "I",
@@ -225,7 +225,7 @@
     ]
   },
   {
-    "question": "I would feel regret if I digested an unwilling prey.",
+    "question": "假如我消化了一只不情愿（被我吃掉）的猎物，我会感到后悔。",
     "answers": [
       {
         "type": "I",
@@ -250,7 +250,7 @@
     ]
   },
   {
-    "question": "I eat primarily to satisfy my hunger.",
+    "question": "我进食（猎物）主要是为了填饱肚子。",
     "answers": [
       {
         "type": "E",
@@ -275,7 +275,7 @@
     ]
   },
   {
-    "question": "I’m often too distracted by the feeling of my prey’s muffled voice to understand what they’re saying.",
+    "question": "我常常因为猎物（被肉壁、组织）蒙住的模糊声音分了神，听不懂他们在说什么。",
     "answers": [
       {
         "type": "E",
@@ -300,7 +300,7 @@
     ]
   },
   {
-    "question": "In the end, food is food.",
+    "question": "到了最后，猎物还是躲不开食物的本质，不会变的。",
     "answers": [
       {
         "type": "E",
@@ -325,7 +325,7 @@
     ]
   },
   {
-    "question": "I couldn't hold a conversation with my future prey; I'd be too busy thinking about how good they'll feel sliding down my gullet!",
+    "question": "我根本无暇和我未来的猎物交谈；我的脑袋里将只充斥着想象，想象它们滑入我的食道会有多爽！",
     "answers": [
       {
         "type": "E",
@@ -350,7 +350,7 @@
     ]
   },
   {
-    "question": "Devouring prey makes me feel stronger.",
+    "question": "吞食猎物令我感到更加强壮。",
     "answers": [
       {
         "type": "E",
@@ -375,7 +375,7 @@
     ]
   },
   {
-    "question": "Swallowing prey isn't as satisfying if I don't get a reaction out of them.",
+    "question": "吞食的猎物如果没有一点反应，我会感到不满意。",
     "answers": [
       {
         "type": "V",
@@ -400,7 +400,7 @@
     ]
   },
   {
-    "question": "I like the idea of holding someone else inside me more than how my prey might taste or feel.",
+    "question": "比起猎物的口感和味道，我更喜欢猎物裹于胃腹中的感觉。",
     "answers": [
       {
         "type": "V",
@@ -425,7 +425,7 @@
     ]
   },
   {
-    "question": "I never forget that my prey are thinking, feeling beings.",
+    "question": "我的猎物是具有思考和感受的生物，这一点我永远不会忘掉。",
     "answers": [
       {
         "type": "V",
@@ -450,7 +450,7 @@
     ]
   },
   {
-    "question": "I have fond memories of all the prey I've eaten before.",
+    "question": "每一只我吃掉的猎物，我都和他们有不错的回忆。",
     "answers": [
       {
         "type": "V",
@@ -475,7 +475,7 @@
     ]
   },
   {
-    "question": "I especially enjoy eating people I'm close to.",
+    "question": "我尤其喜欢吞食那些和我关系较近的猎物。",
     "answers": [
       {
         "type": "V",
@@ -500,7 +500,7 @@
     ]
   },
   {
-    "question": "I often go on the “hunt” for prey, be it in the wilds or in public.",
+    "question": "我常常去“搜寻”猎物，不论是在野外还是在公共场合。",
     "answers": [
       {
         "type": "P",
@@ -525,7 +525,7 @@
     ]
   },
   {
-    "question": "If my prey didn't want to be eaten, they should have tried harder to escape.",
+    "question": "如果我的猎物不想被吃掉，他们本应该更努力地逃跑。",
     "answers": [
       {
         "type": "P",
@@ -550,7 +550,7 @@
     ]
   },
   {
-    "question": "When I see someone tasty, I immediately start thinking of ways to go about devouring them.",
+    "question": "当我看到了一只可口的猎物，我会立刻开始想办法如何吃到它。",
     "answers": [
       {
         "type": "P",
@@ -575,7 +575,7 @@
     ]
   },
   {
-    "question": "I'm not afraid to get rough with my prey if I need to.",
+    "question": "如果需要的话，即使我和猎物的互动变得粗暴且猛烈，我也不会有任何忧虑。",
     "answers": [
       {
         "type": "P",
@@ -600,7 +600,7 @@
     ]
   },
   {
-    "question": "I enjoy the thrill of the chase.",
+    "question": "我很享受追逐的快感。",
     "answers": [
       {
         "type": "P",
@@ -625,7 +625,7 @@
     ]
   },
   {
-    "question": "I wait for prey to come to me, rather than seeking them out.",
+    "question": "比起主动挑选猎物，我更倾向“守株待兔”。",
     "answers": [
       {
         "type": "A",
@@ -650,7 +650,7 @@
     ]
   },
   {
-    "question": "I love meeting potential prey for a drink and a chat before 'the main course.'",
+    "question": "我喜欢在进入“正戏”前，和中意的猎物微酌，蜜语一番。",
     "answers": [
       {
         "type": "A",
@@ -675,7 +675,7 @@
     ]
   },
   {
-    "question": "I get nervous about expressing my desire to eat someone.",
+    "question": "当我表达想要吞吃某只猎物的欲望时，我会很紧张。",
     "answers": [
       {
         "type": "A",
@@ -700,7 +700,7 @@
     ]
   },
   {
-    "question": "I prefer it when my prey makes the first move.",
+    "question": "我更喜欢我的猎物主动出击。",
     "answers": [
       {
         "type": "A",
@@ -725,7 +725,7 @@
     ]
   },
   {
-    "question": "I get flustered at the thought of having a full belly.",
+    "question": "一想到肚子要饱了，我就紧张不安。",
     "answers": [
       {
         "type": "A",
@@ -750,7 +750,7 @@
     ]
   },
   {
-    "question": "The feeling of a prey disappearing into my gut arouses me.",
+    "question": "猎物在我的肚子里消失（被我消化）的感受能激起我的性欲。",
     "answers": [
       {
         "type": "N",
@@ -775,7 +775,7 @@
     ]
   },
   {
-    "question": "I'll sometimes grind against my squirming gut after eating a prey.",
+    "question": "我有时会在吃完猎物后揉一揉蠕动的肚子。",
     "answers": [
       {
         "type": "N",
@@ -800,7 +800,7 @@
     ]
   },
   {
-    "question": "I continue to tease my prey long after they're gone.",
+    "question": "猎物被消化掉后，我还会继续戏弄他们。",
     "answers": [
       {
         "type": "N",
@@ -825,7 +825,7 @@
     ]
   },
   {
-    "question": "I like the weight from my prey to be added to my more 'seductive' assets.",
+    "question": "我喜欢猎物的重量加到了我更“有吸引力”的胴体上。",
     "answers": [
       {
         "type": "N",
@@ -850,7 +850,7 @@
     ]
   },
   {
-    "question": "I eat prey because it's sexy.",
+    "question": "我吞食猎物，因为这很性感（能够引发性兴奋）。",
     "answers": [
       {
         "type": "N",
@@ -875,7 +875,7 @@
     ]
   },
   {
-    "question": "Holding prey in my stomach is deeply comforting.",
+    "question": "胃里装着一只猎物的感觉太舒服了。",
     "answers": [
       {
         "type": "X",
@@ -900,7 +900,7 @@
     ]
   },
   {
-    "question": "Sometimes I caress my belly for hours, thinking of the prey inside.",
+    "question": "有时候我会爱抚自己的肚子好几个小时，挂念着里面的猎物。",
     "answers": [
       {
         "type": "X",
@@ -925,7 +925,7 @@
     ]
   },
   {
-    "question": "I love falling into a food coma after eating prey.",
+    "question": "我喜欢在吞食猎物后陷入食物昏迷【学名餐后嗜睡（Postprandial somnolence）也俗称饭气攻心，是指用餐后出现昏睡或是疲倦的情形】。",
     "answers": [
       {
         "type": "X",
@@ -950,7 +950,7 @@
     ]
   },
   {
-    "question": "Vore doesn’t need to be sexually arousing to be an enjoyable experience.",
+    "question": "吞食性爱好（Vore）是一种愉悦的体验，这种愉悦并不需要性唤起。",
     "answers": [
       {
         "type": "X",
@@ -975,7 +975,7 @@
     ]
   },
   {
-    "question": "I eat prey because it's fun.",
+    "question": "我吞食猎物，因为这很好玩儿。",
     "answers": [
       {
         "type": "X",

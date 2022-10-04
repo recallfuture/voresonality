@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>16 Types Voresonality test</title>
+    <title>吞食性爱好倾向性测试</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kanit" />
     <!--
         Used my own style as to not cramp anyone else's' :) - Snapps
@@ -29,19 +29,19 @@
 
 <body>
     <div id='main-menu'>
-        <h1 id='title'>Voresonality Test</h1>
-        <h3 id='subtitle'>Find out your Vore Indicator!</h3>
-        <p>Created by TastyTales and Smuxray, with contributions from Eka's Portal users. This test is based off of the Myers-Briggs Personality Indicator, and is designed to show you what kind of predator or prey you are using one of 16 indicators. It is best to answer these questions 'In Character' for the character you want to get a result for. However, you can also answer as yourself!</p>
-        <p>Please note that this test is meant to be taken for fun, and is still in its development stage. Feedback is appreciated, send your comments to @_TastyTales</p>
+        <h1 id='title'>吞食性爱好倾向性测试</h1>
+        <h3 id='subtitle'>找到你的丸吞性格指标！</h3>
+        <p>网站由 TastyTales 和 Smuxray，以及 Eka 的 Portal 用户协助下共同创建。本测试基于迈尔斯-布里格斯性格分类指标（英语：Myers-Briggs Type Indicator，简称 MBTI）设计，旨在展示在我们的16种（Vore）性格指标中，你是哪种捕食者或猎物。我们的建议是，你最好代入自己的“设定”来回答这些问题，以得到你想要的性格结果。不过，你也可以用自己的身份回答！</p>
+        <p>请注意：本测试仅供娱乐，并仍然在测试阶段。我们欢迎你的反馈，请将你的评价发送到 @_TastyTales</p>
         <p>CSS by @mikhailchip</p>
         <p>Thanks to @Grey_krow for his JavaScript help!</p>
-        <p> Huge thanks to Snappsuwu@FA for their work overhauling the visuals for this project and adding the back and restart buttons. </p>
+        <p>Huge thanks to Snappsuwu@FA for their work overhauling the visuals for this project and adding the back and restart buttons. </p>
 
-        <p>Select which test to take</p>
+        <p>请选择属于你身份的测试</p>
         <div class="pick-button-container">
-            <button class="pick-pred" id='pred-button'>Predator</button>
-            <button class="pick-wprey" id='wprey-button'>Willing Prey</button>
-            <button class="pick-uprey" id='uprey-button'>Unwilling Prey</button>
+            <button class="pick-pred" id='pred-button'>捕食者</button>
+            <button class="pick-wprey" id='wprey-button'>自愿型猎物</button>
+            <button class="pick-uprey" id='uprey-button'>非自愿型猎物</button>
         </div>
     </div>
     <div id='test-menu' style='display:none;'>
@@ -53,17 +53,17 @@
         <div id="question-containter">
             <h1 id="question-header"></h1>
             <div id="test-options">
-                <button disabled="" class="navbuttons" id='back-button'>⬅</button>
-                <button class="navbuttons" id="reset-button">⟳</button>
+                <button disabled="" class="navbuttons" id='back-button'>⇦</button>
+                <button class="navbuttons" id="reset-button">↻</button>
             </div>
         </div>
         <p id="question-text"></p>
         <div class="testbuttons-container">
-            <button class="testbuttons" id='strdis-button'>Strongly Disagree</button>
-            <button class="testbuttons" id="dis-button">Disagree</button>
-            <button class="testbuttons" id="na-button">Neither</button>
-            <button class="testbuttons" id="agr-button">Agree</button>
-            <button class="testbuttons" id="stragr-button">Strongly Agree</button>
+            <button class="testbuttons" id='strdis-button'>强烈反对</button>
+            <button class="testbuttons" id="dis-button">反对</button>
+            <button class="testbuttons" id="na-button">中立</button>
+            <button class="testbuttons" id="agr-button">同意</button>
+            <button class="testbuttons" id="stragr-button">非常同意</button>
         </div>
     </div>
     <div id='results-menu' style='display:none;'>
@@ -79,36 +79,36 @@
         </div>
         <div id="results-scores">
             <table id="scores-table">
-                <caption>Scores</caption>
+                <caption>分数</caption>
                 <tr>
-                    <td>Individual</td>
+                    <td>个人型（Individual）</td>
                     <td id="score-individual">0</td>
                     <td id="score-shared">0</td>
-                    <td>Shared</td>
+                    <td>共享型（Shared）</td>
                 </tr>
                 <tr>
-                    <td>Visceral</td>
+                    <td>本能型（Visceral）</td>
                     <td id="score-visceral">0</td>
                     <td id="score-emotional">0</td>
-                    <td>Emotional</td>
+                    <td>情感型（Emotional）</td>
                 </tr>
                 <tr>
-                    <td>Active</td>
+                    <td>主动型（Active）</td>
                     <td id="score-active">0</td>
                     <td id="score-passive">0</td>
-                    <td>Passive</td>
+                    <td>被动型（Passive）</td>
                 </tr>
                 <tr>
-                    <td>SeXual</td>
+                    <td>性欲型（Sexual）</td>
                     <td id="score-sexual">0</td>
                     <td id="score-sensual">0</td>
-                    <td>SeNsual</td>
+                    <td>感官型（Sensual）</td>
                 </tr>
             </table>
         </div>
         <div id="results-buttons">
-            <a id="results-share"><p>Copy Your Results</p></a>
-            <button class="reset-button" id="reset-button-2">Reset</button>
+            <a id="results-share"><p>复制你的结果</p></a>
+            <button class="reset-button" id="reset-button-2">重置</button>
         </div>
 
     </div>

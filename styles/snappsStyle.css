@@ -122,9 +122,10 @@ p {
     display: block;
     box-sizing: border-box;
     width: 100%;
-    padding: 1em;
+    padding: 2em 1em;
     margin: 0;
     font-style: italic;
+    font-size: 2em;
     text-align: center;
     background: #444;
 }
@@ -143,16 +144,20 @@ p {
 }
 
 .navbuttons {
-    font-size: xxx-large;
+    font-size: 2em;
     background: #0000;
     color: #eee;
     border: none;
 }
 
-    .navbuttons:hover {
-        color: var(--currentTheme);
-        filter: drop-shadow(0px 0px 5px var(--currentTheme));
-    }
+.navbuttons:hover {
+    color: var(--currentTheme);
+    filter: drop-shadow(0px 0px 5px var(--currentTheme));
+}
+
+#back-button {
+    font-size: 1.4em;
+}
 
 #back-button:hover:disabled {
     color: #888;

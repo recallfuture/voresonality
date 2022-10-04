@@ -1,6 +1,6 @@
 [
   {
-    "question": "I roll my eyes at predators who tell me how hungry they are.",
+    "question": "对于那些告诉我它们有多饿的捕食者们，我会向它们翻白眼。",
     "answers": [
       {
         "type": "S",
@@ -25,7 +25,7 @@
     ]
   },
   {
-    "question": "Teasing me about being prey rarely gets a predator anywhere.",
+    "question": "取笑我是猎物不会让捕食者得逞的。（如果捕食者取笑我的猎物身份，它们将很难成功吃到我。）",
     "answers": [
       {
         "type": "S",
@@ -50,7 +50,7 @@
     ]
   },
   {
-    "question": "I'm not afraid to hurt a predator if it means escaping them.",
+    "question": "倘若捕食者受到伤害是我能够逃跑的先决条件，我不会惧怕伤害它们。",
     "answers": [
       {
         "type": "S",
@@ -75,7 +75,7 @@
     ]
   },
   {
-    "question": "Willing Prey perplex me.",
+    "question": "那些情愿（被吃掉）的猎物真是让我搞不懂。",
     "answers": [
       {
         "type": "S",
@@ -100,7 +100,7 @@
     ]
   },
   {
-    "question": "I'm not above poisoning my predator if I'm eaten by them.",
+    "question": "如果我被捕食者吃掉了，我还不至于善良到不考虑毒死他们（我还是会毒死他们）。",
     "answers": [
       {
         "type": "S",
@@ -125,7 +125,7 @@
     ]
   },
   {
-    "question": "I sometimes falter if a predator appeals to my sense of good will.",
+    "question": "如果一个捕食者激发了我的善意，我有时会变得支吾其词、变得动摇乃至会考虑一下。",
     "answers": [
       {
         "type": "I",
@@ -150,7 +150,7 @@
     ]
   },
   {
-    "question": "If I made an agreement to be prey, I would begrudgingly uphold it.",
+    "question": "假如我（经协商）同意成为一个猎物，我会很不情愿地遵守（这个契约）。",
     "answers": [
       {
         "type": "I",
@@ -175,7 +175,7 @@
     ]
   },
   {
-    "question": "I try my best to reason with a predator when cornered",
+    "question": "当我被逼入绝境、走投无路时，我会尽全力与捕食者讲道理。",
     "answers": [
       {
         "type": "I",
@@ -200,7 +200,7 @@
     ]
   },
   {
-    "question": "I have a few select individuals I might consider being eaten by.",
+    "question": "我身边有几个经我挑选过的捕食者，被它们吃掉的话我还可以考虑。",
     "answers": [
       {
         "type": "I",
@@ -225,7 +225,7 @@
     ]
   },
   {
-    "question": "I could be convinced to be prey, for a high price or extremely good reason.",
+    "question": "如果价格诱人、抑或理由极其得当，我是可以被说服去做一只猎物的。",
     "answers": [
       {
         "type": "I",
@@ -250,7 +250,7 @@
     ]
   },
   {
-    "question": "Being in a tight, cramped stomach sounds like my worst nightmare.",
+    "question": "处在一个紧绷、狭窄的胃里听起来像是我最可怕的噩梦。",
     "answers": [
       {
         "type": "E",
@@ -275,7 +275,7 @@
     ]
   },
   {
-    "question": "I try to find ways to protect myself from stomach acids, avoiding digesting for as long as I can.",
+    "question": "我努力试图保护自己不被胃酸侵蚀和消化，时间越长越好。",
     "answers": [
       {
         "type": "E",
@@ -300,7 +300,7 @@
     ]
   },
   {
-    "question": "Predators with sharp teeth make me feel nervous.",
+    "question": "有些捕食者长着尖尖的牙齿，这令我很紧张。",
     "answers": [
       {
         "type": "E",
@@ -325,7 +325,7 @@
     ]
   },
   {
-    "question": "I would kick and yell to attract the attention of passers by if I were eaten.",
+    "question": "倘若我被吃掉了，我会拳打脚踢、大声叫喊，以取得（外面）过路人的注意。",
     "answers": [
       {
         "type": "E",
@@ -350,7 +350,7 @@
     ]
   },
   {
-    "question": "My fear of being devoured stems majorly from the physical pain I would be in.",
+    "question": "我对被吃掉的恐惧主要来自于肉体层面的痛苦。",
     "answers": [
       {
         "type": "E",
@@ -375,7 +375,7 @@
     ]
   },
   {
-    "question": "Being in a predator's gut would be ungodly humiliating.",
+    "question": "在捕食者的肚子里真是太丢人了。（译者注：原文“ungodly”有“亵渎神灵的”、“不敬神的”之意）",
     "answers": [
       {
         "type": "V",
@@ -400,7 +400,7 @@
     ]
   },
   {
-    "question": "A predator can tease me to the point of blushing.",
+    "question": "捕食者可以把我戏弄到脸红的地步。",
     "answers": [
       {
         "type": "V",
@@ -425,7 +425,7 @@
     ]
   },
   {
-    "question": "I'd rather disappear entirely than have my friends know I was ever prey.",
+    "question": "我朋友要是知道了“我当过一只猎物”这种事，我恨不得从地里找个缝钻进去，之后再也不出来。",
     "answers": [
       {
         "type": "V",
@@ -450,7 +450,7 @@
     ]
   },
   {
-    "question": "I try not to be noticable when I'm eaten, to avoid attracting attention and further embarrassment.",
+    "question": "当我被吞食的时候，我尽量让自己不那么引人注目，亦以避免更多的尴尬。",
     "answers": [
       {
         "type": "V",
@@ -475,7 +475,7 @@
     ]
   },
   {
-    "question": "Being eaten makes me feel weak and submissive.",
+    "question": "被吃掉这一事让我感到自己很懦弱、唯命是从。",
     "answers": [
       {
         "type": "V",
@@ -500,7 +500,7 @@
     ]
   },
   {
-    "question": "I put up a fight and try to escape when I'm caught.",
+    "question": "当我被逮到的时候，我会奋起反抗并试图逃离。",
     "answers": [
       {
         "type": "P",
@@ -525,7 +525,7 @@
     ]
   },
   {
-    "question": "I would never submit to a predator's whims.",
+    "question": "我从来不会屈服于捕食者的一时冲动。",
     "answers": [
       {
         "type": "P",
@@ -550,7 +550,7 @@
     ]
   },
   {
-    "question": "Predators would need to tie me up to keep me from escaping.",
+    "question": "为了不让我逃走，捕食者需要将我困住，使我不得脱身。",
     "answers": [
       {
         "type": "P",
@@ -575,7 +575,7 @@
     ]
   },
   {
-    "question": "I would attempt to climb back up the throat if I were eaten",
+    "question": "倘若我被吃掉了，我会努力爬到（捕食者的）喉咙处。",
     "answers": [
       {
         "type": "P",
@@ -600,7 +600,7 @@
     ]
   },
   {
-    "question": "I'd be glad knowing I gave a predator a stomach ache for eating me.",
+    "question": "捕食者因为吃掉了我引起了腹痛，这会让我很高兴。",
     "answers": [
       {
         "type": "P",
@@ -625,7 +625,7 @@
     ]
   },
   {
-    "question": "I resign to my fate when I'm caught.",
+    "question": "一旦我被逮住，就只好听天由命了。",
     "answers": [
       {
         "type": "A",
@@ -650,7 +650,7 @@
     ]
   },
   {
-    "question": "I'll often play along with the predator if it means I might not be eaten.",
+    "question": "我会假意顺从捕食者（的某些意愿），倘若这样做我有几率不被它们吃掉。",
     "answers": [
       {
         "type": "A",
@@ -675,7 +675,7 @@
     ]
   },
   {
-    "question": "I'll go down without a fight, even if I hate it every step of the way.",
+    "question": "我会毫无反抗地滑入（食道），即使我恨透了这个过程的每一步。",
     "answers": [
       {
         "type": "A",
@@ -700,7 +700,7 @@
     ]
   },
   {
-    "question": "I'd rather conserve my energy and struggle in a gut than tire myself out struggling in a throat.",
+    "question": "比起在喉咙里挣扎得精疲力竭，我宁愿养精蓄锐，在肚子里反抗。",
     "answers": [
       {
         "type": "A",
@@ -725,7 +725,7 @@
     ]
   },
   {
-    "question": "I'm likely to give up the moment the predator belches.",
+    "question": "捕食者一打嗝，我就很有可能放弃。",
     "answers": [
       {
         "type": "A",
@@ -750,7 +750,7 @@
     ]
   },
   {
-    "question": "I sometimes feel aroused when I'm in someone's jaws, even if I don't want to be.",
+    "question": "有的时候，即使我并不想这样，我还是会在一些捕食者的口腔中产生性兴奋。",
     "answers": [
       {
         "type": "N",
@@ -775,7 +775,7 @@
     ]
   },
   {
-    "question": "A predator can get me to moan if they rub their gut just right.",
+    "question": "如果捕食者揉肚子揉得恰到好处，它们可以令我呻吟。",
     "answers": [
       {
         "type": "N",
@@ -800,7 +800,7 @@
     ]
   },
   {
-    "question": "I have some preferences on who, or what, I would want to be eaten by if I had no choice.",
+    "question": "假如（在被吃掉这件事上）我真的没得选，我在捕食者的身份（捕食者是谁）方面还是会有自己独特的偏好的。",
     "answers": [
       {
         "type": "N",
@@ -825,7 +825,7 @@
     ]
   },
   {
-    "question": "If I did get eaten, I'd want the predator to be physically attractive ",
+    "question": "如果我确实要被吃掉，我希望捕食者的身子可以诱人一些。",
     "answers": [
       {
         "type": "N",
@@ -850,7 +850,7 @@
     ]
   },
   {
-    "question": "Being told how I would add to someone's hips is oddly invigorating.",
+    "question": "很奇怪，如果有人和我谈及“我将怎样进入别只的臀部”这样的话题，这会令我精神振奋。",
     "answers": [
       {
         "type": "N",
@@ -875,7 +875,7 @@
     ]
   },
   {
-    "question": "My friends would describe me as 'pouty' if they successfully stomach me.",
+    "question": "如果我的朋友们能成功吃得下我，它们会说我“很容易生闷气”，“板着脸不愿说话”。",
     "answers": [
       {
         "type": "X",
@@ -900,7 +900,7 @@
     ]
   },
   {
-    "question": "I would reluctantly rub a predator's gut if it meant a chance at being let out.",
+    "question": "我会不情愿地揉搓捕食者的内脏（肉壁），倘若这样做有机会从那里逃走。",
     "answers": [
       {
         "type": "X",
@@ -925,7 +925,7 @@
     ]
   },
   {
-    "question": "I would try to appeal to a predator's sense of humanity to convince them not to eat me.",
+    "question": "我会试着激发捕食者的仁慈之心和人道主义，以说服它们不把我吃掉。",
     "answers": [
       {
         "type": "X",
@@ -950,7 +950,7 @@
     ]
   },
   {
-    "question": "I will bargain with a predator for my freedom.",
+    "question": "我会为了自由与捕食者讨价还价。",
     "answers": [
       {
         "type": "X",
@@ -975,7 +975,7 @@
     ]
   },
   {
-    "question": "I could never find being eaten arousing.",
+    "question": "我从未觉得被吃掉这一事件能激起我的性兴奋。",
     "answers": [
       {
         "type": "X",
