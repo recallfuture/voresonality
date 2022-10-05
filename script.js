@@ -121,7 +121,7 @@ backbtn.addEventListener('click', function () {
 
 //Reset Buttons
 resetbtn.addEventListener('click', function () {
-    if (confirm("Are you sure? You will lose all saved data!")) {
+    if (confirm("确定重置并回到首页吗？保存的所有数据将被清空！")) {
         resetTest();
         resetScores();
         window.location.hash = '#';
@@ -130,7 +130,7 @@ resetbtn.addEventListener('click', function () {
 
 });
 resetbtn2.addEventListener('click', function () {
-    if (confirm("Are you sure? You will lose all saved data!")) {
+    if (confirm("确定重置并回到首页吗？保存的所有数据将被清空！")) {
         resetTest();
         resetScores();
         window.location.hash = '#';
@@ -161,11 +161,12 @@ function readTextFile(file, callback) {
 }
 
 //Desc: (Currently) copies page url to user's clipboard (with warning).
-function sentToClipboard() {
+async function sentToClipboard() {
     // Text to copy
     var text = window.location.toString();
     // Sending it to the clipboard
-    if (confirm("This will copy the link to your results to your clipboard. Continue?")) navigator.clipboard.writeText(text);
+    await navigator.clipboard.writeText(text);
+    alert("已将结果复制到剪贴板。")
 }
 
 //===================
