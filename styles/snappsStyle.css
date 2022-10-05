@@ -388,6 +388,11 @@ table tr:last-of-type {
     background: var(--currentTheme);
 }
 
+#results-share, #reset-button-2 {
+    user-select: none;
+    cursor: pointer;
+}
+
 /* Results Menu Buttons */
 
 #results-buttons {
