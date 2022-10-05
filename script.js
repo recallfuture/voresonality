@@ -440,128 +440,128 @@ function descriptions() {
     switch (type) {
         /* PREDATOR DESCRIPTIONS */
         case 'IVAN':
-            title2.innerText = 'The Apex Predator';
+            title2.innerText = '悍胃者';
             textarea.innerText = typeDesc;
-            textareaheader.innerText = "'You're all mine now, little snack!'";
+            textareaheader.innerText = "“你现在全身上下都是我的啦！小点心！”";
             textarea2.innerText =
-                'You are an Alpha Predator. Filling your gut is all that matters to you, and there are plenty of tasty prey in the world to fill it with. You hunt them actively, pursuing prey for the sole purpose of feeding your insatiable hunger. They may kick and struggle but, being top of the food chain, you will always win in the end. The IVAN predator tends to be detached from the feelings of their prey, they could eat just about anyone and enjoy it about the same so long as they were delicious. \n';
+                '所谓的顶级捕食者。IVAN捕食者将填饱肚子视作首要任务，而这个世界上有许多美味的猎物能够满足这个要求。她们会积极地狩猎，追捕猎物的唯一目的就是满足她们那无法满足的饥饿感。猎物们也许会踢打和挣扎，但是作为食物链的顶端，她们总会是最后的赢家。她们通常不会在意猎物的感受。她们可以吃掉任何人，只要猎物是美味的，她们都会一视同仁地享受。 \n';
             break;
         case 'IVAX':
-            title2.innerText = 'The Ravenous';
+            title2.innerText = '饕餮';
             textareaheader.innerText =
-                "'Mmm, keep squirming all you want, there's no way out~'";
+                "“嗯~随便你怎么挣扎，这里可没有出去的路哦？”";
             textarea.innerText = typeDesc;
             textarea2.innerText =
-                "Feeding your stomach is one thing, but you're drawn to far more... carnal desires. When some hapless prey goes down your throat, they're contributing not only to your body but a fun night of passion. The IVAX predator revels in a squirming prey, especially one that knows how to push against all the right places. \n";
+                "食欲是一回事，肉欲又是另一回事了。当一些倒霉蛋被吞掉、从喉咙中滑下时，他们不禁会为她的肉体做出贡献，还会为她带来一个充满激情的有趣夜晚。IVAX捕食者陶醉于蠕动的猎物，尤其是一个懂得如何正确地推拿每一个正确方位的猎物。 \n";
             break;
         case 'IVPN':
-            title2.innerText = 'The Spider';
+            title2.innerText = '蜘蛛';
             textareaheader.innerText =
-                "'You know, things would be a lot easier if you just admitted you want this as much as I do~'";
+                "“你知道的，如果你承认自己也想要这样，事情会容易得多~”";
             textarea.innerText = typeDesc;
             textarea2.innerText =
-                "The IVPN does not go out of its way to find prey. You know that in time the food will come to you if you're patient. This hunting strategy usually leaves you famished, so when a prey comes your way you don't hesitate to devour them and enjoy a well-earned meal. It's true what they say; Good things come to those who wait. \n";
+                "IVPN不会主动寻找猎物。她们知道只要自己有足够耐心，，食物就会主动送到面前。这种狩猎策略通常会让她们感到饥饿，所以一旦猎物送上门，她们就会毫不犹豫地吃掉他们，享受这顿来之不易的大餐。所谓“不经一番寒彻骨，怎得梅花扑鼻香”……嗯？不是这么用的吗？ \n";
             break;
         case 'IVPX':
-            title2.innerText = 'The Siren';
+            title2.innerText = '塞壬';
             textareaheader.innerText =
-                "'Come now, wouldn't you love to be a part of this beautiful form?'";
+                "“来吧……难道你不想成为这个美丽形体的一部分吗？”";
             textarea.innerText = typeDesc;
             textarea2.innerText =
-                "Unlike their IVPN counterparts, IVPX predators consider a prey's looks before they decide on making them a meal. You much prefer a meal to be cute or attractive, it makes them taste better in ways you can't put your finger on. On the other hand, you may just be making sure that only the highest quality of prey go into your body, knowing that after they're digested your curves will be all the more noticeable for it. \n";
+                "和IVPN不同，IVPX捕食者会在吃掉猎物之前考虑他们的长相。她们喜欢可爱或者有魅力的猎物，这能在说不清的方面上让猎物显得更加美味。另一方面，她们可能只是想要最优质的的猎物进入自己的身体，因为她们知道在猎物被消化之后，她们身体的曲线将会变得更加引人注目。 \n";
             break;
         case 'IEAN':
-            title2.innerText = 'The Seeker';
+            title2.innerText = '求索者';
             textareaheader.innerText =
-                "'Struggle all you want, it won't change things between us.'";
+                "“随你怎么挣扎吧，这改变不了我们之间的关系。”";
             textarea.innerText = typeDesc;
             textarea2.innerText =
-                "IEAN predators have their reasons to eat others. Whether they're filling their bellies with people who have wronged them, or whether doing so makes them feel superior, the Seeker archetype uses vore as a means to an emotional end, feeding not only their hunger but their emotional needs. \n";
+                "IEAN捕食者有她们自己的捕食他人的理由——不管是用伤害过自己的人来填饱肚子，还是这样能让她们感觉到自己高人一等。她们将“吃”视为一种达成情感目的的手段，这不仅能够满足她们的饥饿感，还能满足她们情感上的需求。  \n";
             break;
         case 'IEAX':
-            title2.innerText = 'The Bully';
+            title2.innerText = '饿霸';
             textareaheader.innerText =
-                "'I'm going to find out what makes you tick, and keep you ticking all the way down~'";
+                "“让我康康你的触发开关是什么，好让你一直动下去。”";
             textarea.innerText = typeDesc;
             textarea2.innerText =
-                'You always know the right thing to say to make your prey squirm. The IEAX predator finds joy in taunting and teasing their prey into squirming in their gut. They devour prey for amusement, and love it when their prey has a lot of energy to use up in their stomach. They can sometimes get tired of passive or willing prey, but it can also prove to be a fun challenge to figure out what to do to get a reaction out of them. IEAX predators are not always malicious, however. An IEAX predator could also be a predator who likes to flirt with their prey, teasing them as they eat them. \n';
+                'IEAX捕食者总是知道该说什么来让自己的猎物蠕动。她们在奚落和嘲弄肚子里的猎物以让他们蠕动的过程中找到乐趣。她们以吞食猎物作为消遣，尤其喜欢能消耗大量精力在她们胃里蠕动的猎物。她们有时会厌倦自愿或被动的猎物，但弄清楚怎样才能让他们有所反应也是一项有趣的挑战。不过，IEAX捕食者并不一定是恶意的，她们可能只是喜欢和猎物调情，在吃掉猎物的时候会戏弄他们。 \n';
             break;
         case 'IEPN':
-            title2.innerText = 'The Trapper';
+            title2.innerText = '捕手';
             textareaheader.innerText =
-                "'We both know I want it... the question is, when will you?'";
+                "“我们都知道我想要这个……那你呢？”";
             textarea.innerText = typeDesc;
             textarea2.innerText =
-                "IEPN predators love to lure their prey into a false sense of security. They get to know them, often hinting at their fate whilst never outright saying it. In some ways, prey of IEPN know that they are just a meal to them, and yet the IEPN's natural charisma encourages them to remain friends. The IEPN eats to satisfy a desire of Emotional connection to their prey as well as the sensations that come with the process. They can be equally passionate predators and clever tricksters.";
+                "IEPN捕食者喜欢诱骗她们的猎物产生一种虚假的安全感，她们了解这些，经常暗示他们的命运，但从不会直接说出来。 在某种程度上，IEPN的猎物知道他们只是对方的一顿美餐，但IEPN的自然魅力鼓励着他们继续保持朋友关系。IEPN捕食者吞食猎物是为了和猎物之间保持情感联系的欲望，以及这个过程带来的感觉。她们可以是热情的捕食者，同时也可以是精明的骗子。 ";
             break;
         case 'IEPX':
-            title2.innerText = 'The Temptress';
+            title2.innerText = '妖妇';
             textareaheader.innerText =
-                "'I'll give you the ride of your life, which happens to end in a long slide to my stomach.'";
+                "“以我为始，以我为终。”";
             textarea.innerText = typeDesc;
             textarea2.innerText =
-                'The Temptress can often be found in public, simply waiting for prey to notice them. They wink and slip away from the crowd, guiding they prey into a quiet area where they can get to know eachother better, both emotionally and physically. The IEPN predator enjoys playing games with their prey, luring them into a night of passion (at least, for them) and devouring them when they least expect it. Their seductive nature makes them hard to resist for most, though being Passive they tend to wait for their prey to come to them instead. \n';
+                'IEPX捕食者经常出现在公共场合，等待猎物注意到她们。她们会眨眨眼然后从人群中溜走，将目标引入一个安静的区域，在那里他们可以从身体上以及情感上更好地了解彼此。IEPN捕食者喜欢和猎物先玩玩游戏，引导他们进入一个充满激情之夜（至少是对她们来说），并在猎物最意想不到的时候吞食他们。她们诱人的本性让大多数人都难以抗拒，尽管她们总倾向于被动地等待猎物找上自己。 \n';
             break;
         case 'SVAN':
-            title2.innerText = 'The Companion';
-            textareaheader.innerText = "'Friends are the tastiest food of all!'";
+            title2.innerText = '伙伴';
+            textareaheader.innerText = "“朋友，好吃！”";
             textarea.innerText = typeDesc;
             textarea2.innerText =
-                'SVAN are much friendlier predators than their IVAN counterparts. They often seek out willing prey to sate their appetite and try to make the experience an enjoyable one for both sides. While they still eat primarily to satisfy their hunger, their Shared nature ensures that their gluttony will never take precedence over the comfort of their prey. \n';
+                'SVAN是比起IVAN更友好的捕食者。她们通常会寻找有主动意愿猎物来满足自己的胃口，并且尽量做到让双方都能愉快地体验整个过程。尽管她们吞食主要还是为了满足自己的饥饿感，但她们共享的天性确保了她们的暴食永远不会优先于猎物的舒适感。 \n';
             break;
         case 'SVAX':
-            title2.innerText = 'The Host';
-            textareaheader.innerText = "'I want you to be comfortable with this.'";
+            title2.innerText = '东道主';
+            textareaheader.innerText = "“希望你会对此感到舒适。”";
             textarea.innerText = typeDesc;
             textarea2.innerText =
-                'SVAX predators like to make their prey feel comfortable before the main event, outlining clearly what is about to happen to them. They explain their hunger and their desire to be filled, and how good it will feel for both them and their prey. Their passion is infectious, often convincing even the most unwilling prey of their arousal at the prospect of being eaten. The host can use their skills to trick prey, but most would rather that their prey be as satisfied with the outcome as they are. \n';
+                'SVAX捕食者喜欢在主线开始之前先让猎物感到舒服，清楚细致地描述接下来会在他们身上发生的事情。她们会解释自己正饥肠辘辘并且渴望被填饱，以及这对自己以及猎物来说是件多好的事。她们的热情富有感染力，甚至能够说服最不情愿的猎物。 她们可以使用技能来欺骗猎物，但她们中的大部分还是更希望自己的猎物能对结局满意。 \n';
             break;
         case 'SVPN':
-            title2.innerText = 'The Tempted';
+            title2.innerText = '动心者';
             textareaheader.innerText =
-                "'I'm really sorry about this, but I'm just so hungry...'";
+                "“真的很抱歉！但是我实在是太饿了……”";
             textarea.innerText = typeDesc;
             textarea2.innerText =
-                'The SVPN is in a constant battle with their urges. They have plenty of prey friends, but when their stomach starts growling all they can think about doing is eating them. They try to ignore the feelings, despite how good it would be to just give in and binge on lots of prey. Finding a willing prey partner is a welcome relief of SVPN... if they can convince themselves to stop at just eating one prey, anyway. \n';
+                'SVPN捕食者一直在和她们的冲动作斗争，她们有很多的猎物朋友，但当胃开始咆哮时，她们所能想到的就是吃掉他们。尽管屈从本能并开始吞食大量猎物这种事十分美好，但她们一直在努力忽视这种想法。找到一个愿意被捕食的同伴对于SVPN捕食者来说是一种莫大的解脱——如果她们能说服自己只吃一个的话。 \n';
             break;
         case 'SVPX':
-            title2.innerText = 'The Lustful';
+            title2.innerText = '贪色者';
             textareaheader.innerText =
-                "'Sex is great, but have you tried getting devoured? Omph!'";
+                "“涩涩是很棒啦，不过你有试过被吞掉吗？啊呜！”";
             textarea.innerText = typeDesc;
             textarea2.innerText =
-                'Wild nights of frisky passion usually end with a full belly for the SVPX. They can sometimes lose themselves in the moment, wanting to feel their partners deeper than they can possibly go. They may use vore to help themselves or their partner achieve climax, or as a way to cuddle with them after spending time with them. In any case, SVPX predators are lovers with a voracious appetite. \n';
+                '狂野的激情之夜通常以SVPX的饱腹而告终。她们会在某一刻迷失自我，想要更深入地去感受她们的伴侣。她们可能会用vore的方式来让自己或者伴侣达到高潮，或者作为共度时光后拥抱他们的一种方式。无论如何，SVPX捕食者是那种有着旺盛食欲的恋人。 \n';
             break;
         case 'SEAN':
-            title2.innerText = 'The Keeper';
-            textareaheader.innerText = "'The way to my heart is through my stomach!'";
+            title2.innerText = '守护者';
+            textareaheader.innerText = "“征服我的心的方法就是征服我的胃！”";
             textarea.innerText = typeDesc;
             textarea2.innerText =
-                'SEAN predators like to keep their friends close, and what better way to do that than keeping them inside them? These predators love to spend quality time with the prey in their stomach, often holding them for extended periods of time even while they go about their day to day lives. SEAN predators are likely candidates for endosoma given their love of keeping prey in their bellies for the emotional comfort it brings them. \n';
+                'SEAN捕食者喜欢和她们的朋友保持亲密的关系，而要这样的话还有啥方法能比负距离接触更好呢？这种捕食者喜欢和胃里的猎物共度美好时光，即使是在日常生活中也经常会把他们装在肚子里很长时间。SEAN捕食者可能是endosoma的候选者，因为她们喜欢把猎物放在肚子里，以获得情感上的安慰。 \n';
             break;
         case 'SEAX':
-            title2.innerText = 'The Collector';
+            title2.innerText = '收藏家';
             textareaheader.innerText =
-                "'I'd love for us to always be together, even if that means having you on my hips.'";
+                "“我希望我们能一直在一起，永不分开……”";
             textarea.innerText = typeDesc;
             textarea2.innerText =
-                "SEAX predators have an eye for quality when it comes to prey. They are social creatures, enjoying getting to know any attractive individual who catches their eye. They encourage prey to explore their body and give their opinions on where they'd like to end up on it, though they're more likely to go to 'fun' areas. Their Shared and Emotional traits give them a strong preference for willing prey, who they actively search for when 'hunting'. In Non-fatal scenarios these predators are the type to constantly remind their prey how much they've contributed to their body, often posing or showing off and talking to their fat with their friends' names. \n";
+                "SEAX捕食者在猎物方面非常注重质量。她们是社交动物，喜欢结识任何能吸引她们眼球的有魅力的人。她们鼓励猎物探索自己的身体，并就他们最终要去的地方发表意见——尽管他们可能最后要去的会是更“有趣”的地方。她们“共享”和“情绪化”的特质使得她们在积极地“狩猎”时对于自愿的猎物会有强烈的偏好。在非致命的场景中，这些捕食者会不断地提醒猎物对自己的身体做出了多少贡献，经常会摆各种姿势或者炫耀，并会用朋友的名字和自己的脂肪交谈。  \n";
             break;
         case 'SEPN':
-            title2.innerText = 'The Nurturer';
+            title2.innerText = '养育者';
             textareaheader.innerText =
-                "'How's that? feeling comfortable? You just let me know when you want out.'";
+                "“怎样？舒服吗？想出来的时候跟我说一声噢。”";
             textarea.innerText = typeDesc;
             textarea2.innerText =
-                "SEPN predators love to make their prey feel warm and cosy, often encouraging them with comforting words before and after they are done eating them. They lean towards keeping their prey safe and secure, and are reluctant when it comes to anything that would cause their prey harm such as digestion. Some SEPN predators don't even consider themselves to be predators at all, choosing only to eat when a prey comes to them seeking to experience vore. \n";
+                "SEPN捕食者喜欢让她们的猎物感到温暖和舒适，经常在吞食之前以及之后用慰藉的话来鼓励他们。 她们倾向于保护猎物的安全，不愿意做任何会对猎物造成伤害的事情（例如消化）。一些SEPN捕食者甚至根本不认为自己是捕食者，只有在猎物靠近她们并且寻求体验时才会选择进食。 \n";
             break;
         case 'SEPX':
-            title2.innerText = 'The Romantic ';
+            title2.innerText = '浪漫主义者';
             textareaheader.innerText =
-                "'I want to feel you inside of me, but only if you want that too.'";
+                "“我希望在我的体内感受你，但前提是你愿意。”";
             textarea.innerText = typeDesc;
             textarea2.innerText =
-                "Romantics, Lovers, Seekers of passion. SEPX predators understand the intimate nature of vore better than anyone. It is a display of passion between two people who both want them same thing; an intimate closeness like no other. SEPX predators do not actively seek prey, but instead offer them the chance to explore their bodies of their own free will. Once inside them, the SEPX takes great sexual pleasure in both their own and their prey's arousal. They often choose to spit their prey out after they're done, or at least find means to revive them as SEPX predators form strong connections with those they eat, and wouldn't want them to be harmed. \n";
+                "浪漫主义者，恋人，激情的追求者。SEPX比任何人都更了解vore的亲密本质。这是两人之前热情的展现，他们都想要同样的东西：一种无与伦比的亲密。SEPX不会主动寻找猎物，而是为他们提供自由探索自己身体的机会。一旦进入到她们体内，SEPX就会在她们自己以及猎物的兴奋中获得巨大的性快感。她们通常选择在完成之后把猎物吐出来，或者至少找到复活的方法，因为SEPX捕食者和她们吃掉的人建立了紧密的联系，不希望他们因此受到伤害。 \n";
             break;
 
         /* WILLING PREY DESCRIPTIONS */
@@ -829,31 +829,31 @@ function descriptions() {
 
     if (I >= S) {
         isDesc =
-            "<b>Individual (I)</b> characters generally don't put much thought toward their partner and their partner's feelings; nor would they put much effort into making the experience enjoyable for their partner. Individual characters aren't necessarily averse to taking it slow and having a little fun beforehand, but in the end they're in it to please themselves. In the case of unwilling prey, Individual means they could care less what their predator wants, they just want to escape and not have to experience it. Willing prey would seek to satisfy their own fantasy regardless of their predator's orientation. \n";
+            "<b>自我 (I)</b> 自我型特征表现在角色通常不会花太多心思在对方身上，不会考虑对方的感受，同时也不会花很多精力去让对方体验到舒适的过程。自我的角色不一定讨厌拉长进食的过程以在事先获得一点点的满足，但是到最后，他们都会沉迷于这种结果以取悦自己。如果是自我的非自愿猎物，这种特质就会表现为他们可能不会在意捕食者的意愿，他们只想逃离以不被吞掉。对于自我的自愿猎物，这种特征将会表现为他们会寻求满足自我意愿的想法，而不顾捕食者的态度。 \n";
     } else {
         isDesc =
-            "<b>Shared (S)</b> characters can only truly enjoy themselves if their partner is enjoying themselves as well. Though they still seek to achieve their own goals, they do so with respect to their partner's wishes. Shared predators prefer to eat only willing prey, or maybe coax the prey into sliding down their gullet; and, in the event that they do devour unwilling prey (perhaps out of absolute need), they feel remorseful about it, genuinely valuing their prey's emotions. Shared prey characters tend to go willingly and aim to please their predator as best they can on their way down. Unwillingness in Shared prey characters usually amounts to something more like reluctance- they didn't want to be food, but they may as well go along with it now that it's happening. \n";
+            "<b>互利 (S)</b> 具有互利型特征的角色只有在对方也满足的情况下才会真正地满足自己。虽然他们依然会想办法满足自己的要求，不过他们也同样会尊重对方的意愿。互利的捕食者更喜欢吞下自愿的猎物，或者也有可能哄骗猎物把他们的食道当作滑梯。如果他们吞下了一个非自愿的猎物（如果不是绝对需要这样的话），他们会感到懊悔，因为他们真正看重猎物的情绪。互利的猎物通常都是自愿的，并且目的是尽可能地在这个过程中取悦他们的捕食者。而具有互利特质的非自愿猎物通常都是勉强自己——他们不想作为食物，但是他们可能还是会接受这个过程。 \n";
     }
     if (V >= E) {
         veDesc =
-            '<b>Visceral (V)</b> characters do what they do because they need it, or it simply makes sense. Predators with a Visceral leaning are driven by their raw hunger, or their physical desire to partake in the act, or simply for the need to fuel their body. Visceral prey, when willing, are much the same- they want to be eaten because it feels good, they enjoy the experience physically. Unwilling Visceral prey are motivated purely by their will to survive, or their fear of the pain and/or discomfort of being trapped inside a predator. \n';
+            '<b>生理导向 (V)</b> 生理导向型角色这么做的原因只是他们需要这么做，或者是这么做有作用。生理导向型的捕食者通常是被他们原始的饥饿驱使，或者是他们生理上需要做出这样的行动，可能是简单地需要支撑生命活动的能量。生理导向型的自愿猎物，通常也是这样——他们想要被吞食，因为这使他们感觉良好，他们在生理上满足于这种经历。生理导向型的非自愿猎物完全是因为他们想要生存而不是被消化，或者是对自己被困囿于捕食者身体内部的疼痛和不舒适的环境的恐惧。 \n';
     } else {
         veDesc =
-            '<b>Emotional (E)</b> characters tend to focus on the deeper implications behind the whole process of vore. Emotional predators do what they do because they enjoy the relationship with their prey- be it one of affection, or domination- or because they enjoy the thought of holding another being inside themselves and/or turning their prey into a part of their own body. They might enjoy it when their prey begs or struggles while a Visceral predator would likely see such things as a nuisance, something keeping them from their food. Emotional willing prey function much the same way, enjoying the act because it fulfills their desire to be dominated, or to be intimate with their predator, or to be very intimate with their predator- i.e, digested. Emotional unwilling prey want to escape for those very reasons- not for the fear of the physical sensations, but rather the implications of being subjugated in such a way- and, potentially, of not getting to continue with their own life. \n';
+            '<b>心理导向 (E)</b> 心理导向型角色倾向于关注vore这整个过程背后隐含的意义。心理导向型的捕食者享受和猎物之间的关系，作为对方的一个情感依赖者，或者是统治者，也有可能因为他们享受于把对方裹在腹中，甚至是将对方转化为自己身体的一部分的这种感觉。他们可能更享受于猎物的祈求和挣扎，而生理导向型的捕食者会觉得猎物的动静过于吵闹。心理导向型的自愿猎物也会有类似的表现，沉迷于被吞进对方腹中的感觉，因为这让他们有了被征服的感觉，或者是能在捕食者体内的这种亲密关系，例如：被消化。而心里导向型的非自愿猎物也有一些重要的原因想要逃离——不是因为对这种感觉恐惧，而是因为这对他们来说是被征服——甚至有可能失去生命。 \n';
     }
     if (A >= P) {
         apDesc =
-            "<b>Active (A)</b> characters go out of their way to make things happen, putting in real effort to achieve their desires. The significance of this trait in predators is simple enough- active predators are the types who hunt regularly, or commonly seek out vore opportunities. Once they have their prey, active predators will likely want to get right to the point, and also probably won't be afraid to apply a little force to get what they want. Active prey will of course actively resist or struggle against their predator- or, in willing cases, intentionally seek out or encourage a pred to make a meal out of them. \n";
+            "<b>主动 (A)</b> 主动的角色会用自己的办法让vore的行为真实发生，从而达到他们自己的想法。这种特质在捕食者身上就很重要——主动的捕食者有规律地狩猎，或者普遍在寻求能够吞下别人的机会。一旦他们找到了他们中意的猎物，主动的捕食者通常会想办法吞下他们，并且有可能会施加一点强制力在猎物身上以达到他们想要的目标。主动的猎物当然会明确拒绝，并且挣扎。或者，对于自愿猎物，他们可能会有意图地寻找或者鼓励捕食者将他们当作一顿美餐。 \n";
     } else {
         apDesc =
-            "<b>Passive (P)</b> characters generally go with the flow of things, more often being drawn into situations than creating them. Passive predators are more inclined to wait and watch potential prey go by rather than simply grabbing one- perhaps coming up with a detailed plan to claim their prize, or luring prey close using their own appealing body. Passive predators can also simply not see themselves as predators, or try to resist their hunger when they're around prey (often failing to do so when the temptation becomes too much). Passive prey, naturally, tends to submit once the predator has them in their grasp- giving in for a host of possible reasons ranging from subservience to despair to sexual thrill. Willing types will happily subject themselves to their predator's whims, serving the role of 'toy' or 'food' with few objections. Unwilling Passive types tend to be more defeatist in nature- giving up struggling once they realize it's hopeless (while Active types tend to struggle on and on regardless of how hopeless it may seem). \n";
+            "<b>被动 (P)</b> 被动的角色通常被事情的发展所裹挟着，一般是“自己正处于某种情况”而不是“自己创造了某种情况”。被动的捕食者倾向于等待，并且观察潜在的猎物，而不是直接抓一只——有可能是想出一个非常详细的计划让猎物自投罗网，或者是用自己诱人的身体引诱猎物靠近。被动的捕食者也经常不把自己看作捕食者，或者在猎物围绕着自己的时候也不为所动（当然在诱惑太强烈的时候也会控制不了自己）。被动的猎物，在当捕食者抓住自己的时候很自然地就会贡献自己——当然会有很多原因，有可能是绝望地服从，也有可能是快感。有被动特质的自愿猎物乐意于满足捕食者的奇思妙想，有可能作为食物，或者是“玩具“的身份。而被动特质的非自愿猎物自然会看起来更加怯懦——如果他们觉得没有希望，甚至会放弃挣扎（而主动特质的猎物倾向于一直挣扎，无论逃脱的希望看起来多么渺茫）。 \n";
     }
     if (X >= N) {
         xsDesc =
-            "<b>SeXual (X)</b> characters see vore as an act of temptation, sprouting from lust. Generally, any Sexual character would be hard-pressed to resist becoming aroused if they happened to be drawn into a vore scenario. Sexual predators seek out food to satisfy their carnal urges in tandem with any other motivations, including hunger, the desire to dominate, and/or put some extra weight on their hips. Sexual prey enjoy the experience similarly, taking pleasure in being their predator's meal, plaything or body-fuel- regardless of whether they do so willingly or unwillingly. \n";
+            "<b>性导向 (X)</b> 性导向的角色认为vore是一种诱惑，充满了快感的。通常来说，性导向的角色在被带入vore的情境中时会焦头烂额，因为他们可能会被引起冲动。性导向地捕食者会寻找能够满足他们性冲动，以及其他任何的动机的猎物，而这种动机包含饥饿、控制欲，以及（或者）在他们身体上增加一点食物的重量。性导向的猎物也因为类似的原因享受着，满足于变成捕食者的食物，玩物，或者身体需要的能量，不管他们是自愿的还是非自愿的。 \n";
     } else {
         xsDesc =
-            "<b>SeNsual (N)</b> characters see vore as an act of plain pleasure, satisfaction, or perhaps of pure hunger. They don't associate the sexual element with it directly like Sexual types do- although this doesn't mean they can't still have a sexually involved vore experience now and then. Sensual predators can have all sorts of motivations depending on their other personality aspects, but generally, they do vore for food, satisfaction, bonding or fun- and not as an act of lust in and of itself. Sensual prey likewise enjoy the experience without the need for eroticism- or perhaps they're just some unfortunate unwilling prey-type, one that's pure enough not to take guilty pleasure in being devoured. \n";
+            "<b>非性导向的 (N)</b> 非性导向的角色将vore看作纯粹的乐趣，满足，或者纯粹的饥饿。他们不会把vore和性元素连接在一起——这是性导向角色一般的特质。尽管如此，这也并不意味着他们不会在vore的经历中获得一些快感。非性导向的捕食者可以有非常多的动机，这依赖于他们本身的个人特质，但是通常来说，他们只是把vore当作获取食物，满足感，绑定关系，或者仅仅是乐趣的方式，而不是一种性欲。非性导向的猎物同样地享受着这种经历，不过并不把vore当作性癖——可能是因为他们只是不幸的非自愿猎物，一种足够纯粹的猎物，不会把被吞食当作一种恶趣味。 \n";
     }
 
     textarea3.innerHTML =
