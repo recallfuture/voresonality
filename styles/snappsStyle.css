@@ -72,6 +72,9 @@ p {
     font-family: "Kanit", sans-serif;
 }
 
+a {
+    color: #99D9EA;
+}
 
 /* Test Themes */
 .predbody {
